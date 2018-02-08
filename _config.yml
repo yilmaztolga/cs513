@@ -15,7 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/cs513" # the subpath of your site, e.g. /blog
 #url: "http://wildflame.me" # the base hostname & protocol for your site
 #twitter_username: Taffyer 
-github_username:  yilmaztolga
+github_username:  yilmaztolga 
 
 # Build settings
 markdown: kramdown
