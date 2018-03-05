@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  Trust among strangers in Internet transactions: Empirical analysis of eBay's reputation system
+title:  Empirical analysis of eBay's reputation system
 category: Reputation Systems
 description: An analysis of eBay's reputation by Resnick and Zeckhauser.
 ---
-
 At that time, as we understand from the paper eBay had the following reputation system.
 - Buyers and sellers both had reputation
 - Positive, Neutral and Negative Feedback in textual form +1,0,-1, respectively.
