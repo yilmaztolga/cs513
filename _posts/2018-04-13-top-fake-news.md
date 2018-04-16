@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Top fake nes of 2017
+title:  Top fake news of 2017
 category: Misinformation
 description: Types of misinformation.
 ---
