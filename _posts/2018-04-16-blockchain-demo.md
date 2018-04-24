@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Blockchain Demo
-category: Blockchain
+category: blockchain
 description: A demo of blockchain by Anders Brownworth.
 ---
 
